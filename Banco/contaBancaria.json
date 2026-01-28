@@ -1,0 +1,59 @@
+{
+  "Id": 0,
+  "Titular": {
+    "Id": 1,
+    "Nome": "Jo\u00E3o Silva",
+    "Email": "joao.silva@example.com"
+  },
+  "Saldo": 3150,
+  "HistoricoTransacoes": [
+    {
+      "Id": 1,
+      "Valor": 1000,
+      "Data": "2026-01-28T11:03:13.4219168-03:00",
+      "Descricao": "Dep\u00F3sito inicial"
+    },
+    {
+      "Id": 2,
+      "Valor": -200,
+      "Data": "2026-01-28T11:03:13.4237335-03:00",
+      "Descricao": "Compra supermercado"
+    },
+    {
+      "Id": 3,
+      "Valor": -150,
+      "Data": "2026-01-28T11:03:13.4237583-03:00",
+      "Descricao": "Pagamento de conta de luz"
+    },
+    {
+      "Id": 4,
+      "Valor": 500,
+      "Data": "2026-01-28T11:17:34.77494-03:00",
+      "Descricao": "Dep\u00F3sito Salario"
+    },
+    {
+      "Id": 5,
+      "Valor": 500,
+      "Data": "2026-01-28T11:18:40.7379026-03:00",
+      "Descricao": "Dep\u00F3sito Salario"
+    },
+    {
+      "Id": 6,
+      "Valor": 500,
+      "Data": "2026-01-28T11:21:27.6601144-03:00",
+      "Descricao": "Dep\u00F3sito Salario"
+    },
+    {
+      "Id": 7,
+      "Valor": 500,
+      "Data": "2026-01-28T11:21:30.8205135-03:00",
+      "Descricao": "Dep\u00F3sito Salario"
+    },
+    {
+      "Id": 8,
+      "Valor": 500,
+      "Data": "2026-01-28T11:22:25.1465059-03:00",
+      "Descricao": "Dep\u00F3sito Salario"
+    }
+  ]
+}

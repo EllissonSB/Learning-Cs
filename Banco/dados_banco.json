@@ -1,0 +1,68 @@
+{
+  "NomeDoBanco": "Meu Banco Novo",
+  "Contas": [
+    {
+      "$type": "padrao",
+      "Id": 1,
+      "Titular": {
+        "Id": 1,
+        "Nome": "Maria",
+        "Email": "maria@teste.com",
+        "SenhaHash": ""
+      },
+      "Saldo": 1000,
+      "HistoricoTransacoes": [
+        {
+          "Id": 1,
+          "Valor": 1000,
+          "Data": "2026-01-28T12:59:17.7320037-03:00",
+          "Descricao": "Dep\u00F3sito via terminal"
+        }
+      ]
+    },
+    {
+      "$type": "padrao",
+      "Id": 2,
+      "Titular": {
+        "Id": 2,
+        "Nome": "Jo\u00E3o",
+        "Email": "joao@teste.com",
+        "SenhaHash": ""
+      },
+      "Saldo": 3550,
+      "HistoricoTransacoes": [
+        {
+          "Id": 1,
+          "Valor": 3500,
+          "Data": "2026-01-28T12:58:48.3716814-03:00",
+          "Descricao": "Dep\u00F3sito via terminal"
+        },
+        {
+          "Id": 2,
+          "Valor": 50,
+          "Data": "2026-01-28T12:59:37.186711-03:00",
+          "Descricao": "Dep\u00F3sito via terminal"
+        }
+      ]
+    },
+    {
+      "$type": "padrao",
+      "Id": 3,
+      "Titular": {
+        "Id": 3,
+        "Nome": "Ellisson",
+        "Email": "ellisson@teste.com",
+        "SenhaHash": "5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5"
+      },
+      "Saldo": 20000,
+      "HistoricoTransacoes": [
+        {
+          "Id": 1,
+          "Valor": 20000,
+          "Data": "2026-01-28T13:13:30.5683281-03:00",
+          "Descricao": "Dep\u00F3sito via terminal"
+        }
+      ]
+    }
+  ]
+}
